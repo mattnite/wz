@@ -16,4 +16,3 @@ pkgs:
 
 deps:
   truemedian/hzzp: ^0.0.2
-
